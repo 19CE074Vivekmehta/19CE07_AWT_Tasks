@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+label{
+  font-weight: bold;
+  display: flex;
+  margin-bottom: 15px;
+  margin-left: 450px;
+}
+input[type='text'],[type='email'],[type='mobile'],[type='date'],[type='checkbox']{
+  display: block;
+  width: 500px;
+  padding:8px 12px;
+  font-size: 14px;
+  line-height: 1.45;
+  color: #555;
+  border: 2px solid #697;
+  border-radius: 4px;
+  margin-left: 450px;
+}
